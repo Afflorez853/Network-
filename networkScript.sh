@@ -24,3 +24,10 @@ echo "3. Displaying Routing Table"
 netstat -rn 
 echo ".........."
 
+# Dns resolution 
+
+echo "4. Dns Resolution"
+nslookup wwww.google.com.co
+
+echo ".........."
+
