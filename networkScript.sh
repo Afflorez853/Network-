@@ -50,6 +50,6 @@ if ["speedtest_option" == "y"]; then
 .speedtestbyookia_x64
 
 fi
-echo "----------"
+echo "---------------"
 
 echo "Network testing Completed"
